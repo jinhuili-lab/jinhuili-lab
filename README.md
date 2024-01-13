@@ -1,4 +1,9 @@
 ### Hi there 👋
+- This is  Jinhui Li.
+- Now I am a Ph.D student in America.
+- I focus on Bioinformatics and Biostatistics and enjoy coding.
+- Less is more, do the interesting things.
+
 
 <!--
 **jinhuili-lab/jinhuili-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
