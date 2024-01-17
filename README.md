@@ -10,8 +10,8 @@
 - ☛ Now I am pursuing a Ph.D. degree. If you want to cooperate with me, I can help you with multi-omics analysis, software development, and database development, please contact me by email: ijinhui@foxmail.com.
 
 ### Previous Work 
-- (Microbiosee)[https://microbiosee.gxu.edu.cn/] https://github.com/MicrobioSee/MicrobioSee
-- (SMDB)[https://smdb.gxu.edu.cn/]
+- [Microbiosee](https://microbiosee.gxu.edu.cn/)
+- (https://smdb.gxu.edu.cn/)[SMDB]
 - Because I left my previous team and lost the right to manage of the tools. If some tools can't be available, you can browse my GitHub repository.
 
 
