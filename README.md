@@ -11,7 +11,8 @@
 
 ### Previous Work 
 - [Microbiosee](https://microbiosee.gxu.edu.cn/)
-- (https://smdb.gxu.edu.cn/)[SMDB]
+  * [Demo](https://microbiosee.gxu.edu.cn/images/pic01.jpg)   
+- [SMDB](https://smdb.gxu.edu.cn/)
 - Because I left my previous team and lost the right to manage of the tools. If some tools can't be available, you can browse my GitHub repository.
 
 
