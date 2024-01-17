@@ -18,7 +18,8 @@
 - Because I left my previous team and lost the right to manage of the tools. If some tools can't be available, you can browse my GitHub repository.
 
 
-- |Technique|Python|PHP|R|HTML|Javascript|
+-
+|Technique|Python|PHP|R|HTML|Javascript|
 |---|---|---|---|---|---|
 |Proficiency|★★★★|★★★★|★★★★|★★★|★★|
 
