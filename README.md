@@ -12,5 +12,5 @@
 
 |Technique|Python|PHP|R|HTML|Javascript|
 |---|---|---|---|---|---|
-|Proficiency||||||
+|Proficiency|★★★★|★★★★|★★★★|★★★|★★|
 
