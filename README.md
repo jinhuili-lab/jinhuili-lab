@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 This is  **Jinhui Li**.  
 - ✨ Now I am a Ph.D student in America. 
-- ⚡ I focus on Bioinformatics and **Biostatistics** and enjoy coding.
+- ⚡ I focus on **Bioinformatics** and **Biostatistics** and enjoy coding.
 - 💬 Less is more, do the interesting things.
 ### Experience
 - 🤔 When I got my bachelor's degree, I was interested in computer science.
