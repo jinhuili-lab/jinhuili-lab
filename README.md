@@ -15,6 +15,10 @@
 |---|---|---|---|---|---|
 |Proficiency|★★★★|★★★★|★★★★|★★★|★★|
 
+|Skill|Machine Learning|Deep learning|Genomics|Bioinformatics|Server maintain|
+|---|---|---|---|---|---|
+|Proficiency|★★★★|★★|★★★★|★★★★★|★★★★|
+
 </center>
 
 ### Previous Work 
