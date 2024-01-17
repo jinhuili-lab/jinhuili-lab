@@ -12,13 +12,12 @@
 
 ### Previous Work 
 - [Microbiosee](https://microbiosee.gxu.edu.cn/)
-  * ![](https://microbiosee.gxu.edu.cn/images/pic01.jpg)   
+  * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/pic01.jpg)   
 - [SMDB](https://smdb.gxu.edu.cn/)
-  * ![](https://smdb.gxu.edu.cn/css/images/map00920.png)
+  * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/map00920.png)
 - Because I left my previous team and lost the right to manage of the tools. If some tools can't be available, you can browse my GitHub repository.
 
 
--
 |Technique|Python|PHP|R|HTML|Javascript|
 |---|---|---|---|---|---|
 |Proficiency|★★★★|★★★★|★★★★|★★★|★★|
