@@ -1,8 +1,8 @@
 ### Hi there 
 - 🔭 This is  **Jinhui Li**.  
-- ✨ ~~I am an Algorithm researcher in the R&D center of (BGI group)[https://en.genomics.cn/].~~- Now I am a Ph.D student in America. 
-- ⚡ I focus on **Bioinformatics** and **Biostatistics**.
-- 👋 enjoy coding.
+- ✨ ~~I am an algorithm researcher in the R&D center of BGI group.~~- Now I am a Ph.D student in America. 
+- ⚡ I focus on **Bioinformatics algorithm** and **Biostatistics method**.
+- 👋 I enjoy coding.
 - 💬 Less is more, do the interesting things.
 ### Experience
 - 🤔 When I got my bachelor's degree, I was interested in computer science.
