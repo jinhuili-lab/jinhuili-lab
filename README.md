@@ -1,6 +1,6 @@
 ### Hi there 
 - 🔭 This is  **Jinhui Li**.  
-- ✨ Now I am a Ph.D student in America. 
+- ✨ ~~I am an Algorithm researcher in the R&D center of BGI group.~~- Now I am a Ph.D student in America. 
 - ⚡ I focus on **Bioinformatics** and **Biostatistics**.
 - 👋 enjoy coding.
 - 💬 Less is more, do the interesting things.
