@@ -11,7 +11,7 @@
 - ☛ After that, I worked for the BGI group as a bioinformatics algorithms  researcher and developed some software for the MGI sequencers, including G99 and T20. Rely on the Ztron system and PFI kit, users can got the website report after inputting the biology sample into the MGI sequencer. 
 - ☎ Now I am pursuing a Ph.D. degree. If you want to cooperate with me, I can help you with multi-omics analysis, software development, and database development, please contact me by email: ijinhui@foxmail.com.
 <center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhuili-lab)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhuili-lab)
  
 |Technique|Python|PHP|R|HTML|Javascript|
 |---|---|---|---|---|---|
