@@ -27,10 +27,14 @@
 </center>
 
 ### Previous Work 
-- [Microbiosee](https://microbiosee.gxu.edu.cn/)
+- **Because I left my previous team and lost the right to manage the tools. If some tools can't be available, you can browse my GitHub repository.**
+#### Microbiosee
+- [MicrobioSee website](https://microbiosee.gxu.edu.cn/)
+- [Source code] https://github.com/MicrobioSee/MicrobioSee)
+- [User Guide](https://microbiosee.github.io/)
   * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/pic01.jpg)   
-- [SMDB](https://smdb.gxu.edu.cn/)
+#### SMDB
+- [SMDB website](https://smdb.gxu.edu.cn/)
   * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/map00920.png)
-- Because I left my previous team and lost the right to manage of the tools. If some tools can't be available, you can browse my GitHub repository.
 
 
