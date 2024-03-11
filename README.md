@@ -30,7 +30,7 @@
 - **Because I left my previous team and lost the right to manage the tools. If some tools can't be available, you can browse my GitHub repository.**
 #### Microbiosee
 - [MicrobioSee website](https://microbiosee.gxu.edu.cn/)
-- [Source code] https://github.com/MicrobioSee/MicrobioSee)
+- [Source code](https://github.com/MicrobioSee/MicrobioSee)
 - [User Guide](https://microbiosee.github.io/)
   * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/pic01.jpg)   
 #### SMDB
