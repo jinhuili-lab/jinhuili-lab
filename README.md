@@ -4,7 +4,7 @@
 - ⚡ I focus on **Bioinformatics algorithm** and **Biostatistics method**.
 - 👋 I enjoy coding.
 - 💬 Less is more, do the interesting things.
-- ![Google Scolar](https://scholar.google.com/citations?user=T4z1JAQAAAAJ&hl)
+- [Google Scolar](https://scholar.google.com/citations?user=T4z1JAQAAAAJ&hl)
 ### Experience
 - 🤔 When I got my bachelor's degree, I was interested in computer science.
 - 😄 So I joined a biomedical company as a bioengineer and focused on the bioinformatics analysis for NGS data. The company developed many products for PGS(3rd-generation IVF), such as a reagent test kit for detecting the variance of Genomics and building the bioinformatics cloud platform.
