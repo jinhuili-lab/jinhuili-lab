@@ -27,7 +27,7 @@
 </center>
 
 ### Previous Work 
-- **Because I left my previous team and lost the right to manage the tools. If some tools can't be available, you can browse my GitHub repository.**
+- **I had left my previous team and lost the right to manage the tools, so I can't maintain the tools. If some tools couldn't be available, you can browse my GitHub repository and contact me.**
 #### Microbiosee
 - [MicrobioSee website](https://microbiosee.gxu.edu.cn/)
 - [Source code](https://github.com/MicrobioSee/MicrobioSee)
