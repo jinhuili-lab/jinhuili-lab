@@ -13,7 +13,9 @@
 - ☛ After that, I worked for the BGI group as a bioinformatics algorithms  researcher and developed some software for the MGI sequencers, including G99 and T20. Relying on the Ztron system and PFI kit, users can get the website report after inputting the biology sample into the MGI sequencer. 
 - ☎ Now I am pursuing a Ph.D. degree. If possible, we can cooperate with multi-omics analysis, software development, and database development, please contact me by email: ijinhui@foxmail.com.
 <center>
+ 
  <img align="center" src="https://raw.cachefly.998111.xyz/ymh0000123/ymh0000123/output/github-contribution-grid-snake.svg"/>
+ 
  |<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinhuili-lab&show_icons=true&theme=buefy&hide_border=true" alt="Calcium-Ion's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhuili-lab&layout=compact&theme=buefy&hide_border=true&hide=html,css" /> |
 | ------------- | ------------- |
 
