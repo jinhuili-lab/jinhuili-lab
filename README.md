@@ -35,9 +35,9 @@
 - [MicrobioSee2 ](https://github.com/jinhuili-lab/MicrobioSee2/releases/tag/v2.0.2)
 - [Source code](https://github.com/jinhuili-lab/MicrobioSee2/)
 - [User Guide](https://microbiosee.github.io/)
-  * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/pic01.jpg)   
+* ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/pic01.jpg)   
 #### SMDB
 - [SMDB website](https://smdb.gxu.edu.cn/)
-  * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/map00920.png)
+* ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/map00920.png)
 
 
