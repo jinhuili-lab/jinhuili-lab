@@ -32,7 +32,7 @@
 ### Previous Work 
 
 #### Microbiosee2
-- [MicrobioSee2 ]([https://microbiosee.gxu.edu.cn/](https://github.com/jinhuili-lab/MicrobioSee2/))
+- [MicrobioSee2 ](https://github.com/jinhuili-lab/MicrobioSee2/releases/tag/v2.0.2)
 - [Source code](https://github.com/jinhuili-lab/MicrobioSee2/)
 - [User Guide](https://microbiosee.github.io/)
   * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/pic01.jpg)   
