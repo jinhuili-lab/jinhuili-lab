@@ -30,10 +30,10 @@
 </center>
 
 ### Previous Work 
-- **I had left my previous team and lost the right to manage the tools, so I can't maintain the tools. If some tools couldn't be available, you can browse my GitHub repository and contact me.**
-#### Microbiosee
-- [MicrobioSee website](https://microbiosee.gxu.edu.cn/)
-- [Source code](https://github.com/MicrobioSee/MicrobioSee)
+
+#### Microbiosee2
+- [MicrobioSee2 ]([https://microbiosee.gxu.edu.cn/](https://github.com/jinhuili-lab/MicrobioSee2/))
+- [Source code](https://github.com/jinhuili-lab/MicrobioSee2/)
 - [User Guide](https://microbiosee.github.io/)
   * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/pic01.jpg)   
 #### SMDB
