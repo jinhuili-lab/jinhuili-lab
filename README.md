@@ -7,8 +7,7 @@
 - 💬 Less is more, do the interesting things.
 - ☛ [Google Scolar](https://scholar.google.com/citations?user=T4z1JAQAAAAJ&hl) | [Home pages](https://jinhuili-lab.github.io/) | [Resume](https://jinhuili-lab.github.io/resume/)
 ### Experience
-- 🤔 When I got my bachelor's degree, I was interested in computer science.
-- 😄 So I joined a biomedical company as a bioengineer and focused on the bioinformatics analysis for NGS data. The company developed many products for PGS(3rd-generation IVF), such as a reagent test kit for detecting the variance of Genomics and building the bioinformatics cloud platform.
+- 🤔 When I got my bachelor's degree, I was interested in computer science. 😄 So I joined a biomedical company as a bioengineer and focused on the bioinformatics analysis for NGS data. The company developed many products for PGS(3rd-generation IVF), such as a reagent test kit for detecting the variance of Genomics and building the bioinformatics cloud platform.
 - 👯 During the part of my master's degree, metagenomics attracted my attention. It is my first time to use AI techniques and my first time to publish a paper as a first author. I published two papers as the first author finally and got the National Scholarship of China. 
 - ☛ After that, I worked for the BGI group as a bioinformatics algorithms  researcher and developed some non-open source software for the MGI sequencers, such as PFI, MGI. Relying on the Ztron system and PFI kit, users can get the website report of cancer genomics analyzed after inputting the biology sample into the MGI sequencer. 
 - ☎ Now I am pursuing a Ph.D. degree in America. If possible, any questions about multi-omics analysis, software development, and database development, please contact me by email: ijinhui@foxmail.com.
