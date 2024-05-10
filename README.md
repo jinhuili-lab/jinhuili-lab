@@ -39,4 +39,6 @@
 - [SMDB website](https://smdb.gxu.edu.cn/)
 * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/map00920.png)
 
+### Life
+<iframe src="https://baidu.com" width="700px" height="500px" frameborder="0" scrolling="no"> </iframe>
 
