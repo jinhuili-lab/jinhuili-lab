@@ -1,4 +1,4 @@
-# Jinhui
+# Jinhui Li
 ### Hi there 
 - 🔭 This is  **Jinhui Li**.  
 - ✨ ~~I am an algorithm researcher in the R&D center of BGI group.~~- Now I am a Ph.D student in America. 
