@@ -6,7 +6,7 @@
 - 👋 I enjoy coding.
 - 💬 Less is more, do the interesting things.
 - ☛ [Google Scolar](https://scholar.google.com/citations?user=T4z1JAQAAAAJ&hl) | [Home pages](https://jinhuili-lab.github.io/) | [Resume](https://jinhuili-lab.github.io/resume/index_en.html) | [INS](https://www.instagram.com/jinhui_li_1997/) | [Linkin](https://www.linkedin.com/in/jinhui-li-063961126/)
-- <a href="https://www.instagram.com/jinhui_li_1997/"><img src="https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img9920240511210920.png" /></a>
+  
 ### Experience
 - 🤔 When I got my bachelor's degree, I was interested in computer science. 😄 So I joined a biomedical company as a bioinformatics engineer and focused on the bioinformatics analysis for NGS data. The company developed many products for PGS(3rd-generation IVF), such as a reagent test kit for detecting the variance of Genomics and building the bioinformatics cloud platform.
 - 👯 During the part of my master's degree, metagenomics attracted my attention. It is my first time to use AI techniques and my first time to publish a paper as a first author. I published two papers as the first author finally and got the National Scholarship of China. 
@@ -43,14 +43,5 @@
 
 ### Life
 
-<iframe src="https://baidu.com" width="700px" height="500px" frameborder="0" scrolling="no"> </iframe>
-
-
- <iframe  
- height=850 
- width=90% 
- src="http://mctool.wangmingchang.com/index/jspay/dashang"  
- frameborder=0  
- allowfullscreen>
- </iframe>
+<a href="https://www.instagram.com/jinhui_li_1997/"><img src="https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img9920240511210920.png" /></a>
 
