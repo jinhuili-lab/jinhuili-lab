@@ -42,9 +42,9 @@
 * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/map00920.png)
 
 ### Life
-- INSGRAM
-- <a href="https://www.instagram.com/jinhui_li_1997/"><img src="https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img9920240511210920.png" /></a>
+- INSTAGRAM
+  <a href="https://www.instagram.com/jinhui_li_1997/"><img src="https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img9920240511210920.png" /></a>
 - BLOG
-- <a href="https://jinhuili-lab.github.io/blog/">Jinhui Zone</a>
+  <a href="https://jinhuili-lab.github.io/blog/">Jinhui Zone</a>
 
   
