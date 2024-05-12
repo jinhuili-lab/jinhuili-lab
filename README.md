@@ -45,6 +45,6 @@
 - INSGRAM
 <a href="https://www.instagram.com/jinhui_li_1997/"><img src="https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img9920240511210920.png" /></a>
 - BLOG
-<a href="https://jinhuili-lab.github.io/blog/"><img src="https://github.githubassets.com/favicons/favicon.svg" /></a>
+<a href="https://jinhuili-lab.github.io/blog/">Jinhui Zone</a>
 
   
