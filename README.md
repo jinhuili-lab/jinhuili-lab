@@ -5,7 +5,7 @@
 - ⚡ I focus on **Bioinformatics algorithm** and **Biostatistics method**.
 - 👋 I enjoy coding.
 - 💬 Less is more, do the interesting things.
-- ☛ [Google Scolar](https://scholar.google.com/citations?user=T4z1JAQAAAAJ&hl) | [Home pages](https://jinhuili-lab.github.io/) | [Resume](https://jinhuili-lab.github.io/resume/index_en.html) | [INS](https://www.instagram.com/jinhui_li_1997/) | [Linkin](https://www.linkedin.com/in/jinhui-li-063961126/)
+- ☛ [Google Scolar](https://scholar.google.com/citations?user=T4z1JAQAAAAJ&hl) | [Home pages](https://jinhuili-lab.github.io/) | [Resume](https://jinhuili-lab.github.io/resume/index_en.html) | [INS](https://www.instagram.com/jinhui_li_1997/) | [Linkin](https://www.linkedin.com/in/jinhui-li-063961126/) | [Blog](https://jinhuili-lab.github.io/blog/)
   
 ### Experience
 - 🤔 When I got my bachelor's degree, I was interested in computer science. 😄 So I joined a biomedical company as a bioinformatics engineer and focused on the bioinformatics analysis for NGS data. The company developed many products for PGS(3rd-generation IVF), such as a reagent test kit for detecting the variance of Genomics and building the bioinformatics cloud platform.
