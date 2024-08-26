@@ -20,9 +20,9 @@
  |<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinhuili-lab&show_icons=true&theme=buefy&hide_border=true" alt="Calcium-Ion's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhuili-lab&layout=compact&theme=buefy&hide_border=true&hide=html,css" /> |
 | ------------- | ------------- |
 
-|Technique|Python|PHP|R|HTML|Javascript|
-|---|---|---|---|---|---|
-|Proficiency|★★★★|★★★★|★★★★|★★★|★★|
+|Technique|Python|PHP|R|HTML|Javascript|CSS|Gradio|Plotly|
+|---|---|---|---|---|---|---|---|---|
+|Proficiency|★★★★|★★★★|★★★★|★★★|★★|★★|★★|★★★|
 
 |Skill|Machine Learning|Deep learning|Genomics|Bioinformatics|Server maintain|
 |---|---|---|---|---|---|
