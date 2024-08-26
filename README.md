@@ -26,7 +26,7 @@
 
 |Skill|Machine Learning|Deep learning|Genomics|Bioinformatics|Server maintain|
 |---|---|---|---|---|---|
-|Proficiency|★★★★|★★|★★★★|★★★★★|★★★★|
+|Proficiency|★★★★|★★★★|★★★★|★★★★★|★★★★|
 
 </center>
 
