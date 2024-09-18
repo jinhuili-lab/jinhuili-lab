@@ -40,7 +40,8 @@
 #### SMDB
 - [SMDB website](https://smdb.gxu.edu.cn/)
 * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/map00920.png)
-
+### Favorite Words
+- "莫听穿林打叶声,何妨吟啸且徐行。" -> "Ignore the noise around you; keep walking confidently."
 ### Life
 - INSTAGRAM
   <a href="https://www.instagram.com/jinhui_li_1997/"><img src="https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img9920240511210920.png" /></a>
