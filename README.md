@@ -1,4 +1,6 @@
 # Jinhui Li
+### Favorite Words
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=%E8%8E%AB%E5%90%AC%E7%A9%BF%E6%9E%97%E6%89%93%E5%8F%B6%E5%A3%B0%2C%E4%BD%95%E5%A6%A8%E5%90%9F%E5%95%B8%E4%B8%94%E5%BE%90%E8%A1%8C%E3%80%82%3CIgnore+the+noise+around+you;+keep+walking+confidently.)](https://git.io/typing-svg)
 ### Hi there 
 - 🔭 This is  **Jinhui Li**.  
 - ✨ ~~I am an algorithm researcher in the R&D center of BGI group.~~- Now I am a Ph.D student in America. 
@@ -40,8 +42,7 @@
 #### SMDB
 - [SMDB website](https://smdb.gxu.edu.cn/)
 * ![](https://github.com/jinhuili-lab/jinhuili-lab/blob/main/map00920.png)
-### Favorite Words
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=%E8%8E%AB%E5%90%AC%E7%A9%BF%E6%9E%97%E6%89%93%E5%8F%B6%E5%A3%B0%2C%E4%BD%95%E5%A6%A8%E5%90%9F%E5%95%B8%E4%B8%94%E5%BE%90%E8%A1%8C%E3%80%82%3CIgnore+the+noise+around+you;+keep+walking+confidently.)](https://git.io/typing-svg)
+
 ### Life
 - INSTAGRAM
   <a href="https://www.instagram.com/jinhui_li_1997/"><img src="https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img9920240511210920.png" /></a>
