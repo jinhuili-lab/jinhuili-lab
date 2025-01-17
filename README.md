@@ -13,7 +13,7 @@
 - 🤔 When I got my bachelor's degree, I was interested in computer science. 😄 So I joined a biomedical company as a bioinformatics engineer and focused on the bioinformatics analysis for NGS data. The company developed many products for PGS(3rd-generation IVF), such as a reagent test kit for detecting the variance of Genomics and developing the bioinformatics cloud platform.
 - 👯 During the part of my master's degree, metagenomics attracted my attention. It is my first time to use AI techniques and publish a paper as a first author. In this stage, I published two papers as the first author and got the National Scholarship of China. 
 - ☛ After that, I worked for the BGI group as a bioinformatics algorithms  researcher and developed some non-open source software for the MGI sequencers, such as PFI, MGI. Relying on the Ztron system and PFI kit, users can get the website report of cancer genomics analyzed after inputting the biology sample into the MGI sequencer. 
-- ☎ Now I am pursuing a Ph.D. degree in America. If you have any questions about multi-omics analysis, software development, and database development, please contact me by email: ijinhui@outlook.com or ijinhui@foxmail.com.
+- ☎ Now I am pursuing a Ph.D. degree in America. If you have any questions about multi-omics analysis, software development, and database development, don't hesitate to get in touch with me by email: ijinhui@outlook.com, jinhui.li@slu.edu or ijinhui@foxmail.com.
 <center>
 
  
