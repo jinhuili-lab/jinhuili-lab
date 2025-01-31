@@ -45,7 +45,7 @@
 
 ### Life
 - INSTAGRAM
-  <a href="https://www.instagram.com/jinhui_li_1997/"><img src="https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img9920240511210920.png" /></a>
+  <a href="https://www.instagram.com/jinhui_james_li/"><img src="https://raw.githubusercontent.com/jinhuili-lab/personal_image_bed/master/img9920240511210920.png" /></a>
 - BLOG
   <a href="https://jinhuili-lab.github.io/blog/">Jinhui Zone</a>
 
