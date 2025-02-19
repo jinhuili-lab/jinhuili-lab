@@ -1,6 +1,171 @@
 # Jinhui Li
 ### Favorite Words
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=700&size=13&multiline=true&width=435&lines=%E8%8E%AB%E5%90%AC%E7%A9%BF%E6%9E%97%E6%89%93%E5%8F%B6%E5%A3%B0%2C%E4%BD%95%E5%A6%A8%E5%90%9F%E5%95%B8%E4%B8%94%E5%BE%90%E8%A1%8C%E3%80%82;Ignore+the+noises+around+you%2C+keep+walking+confidently.)]([https://git.io/typing-svg](https://jinhuili-lab.github.io))
+
+    <style>
+
+
+        body{
+            font-variant-caps: all-petite-caps;
+
+
+        }
+
+        .widget {
+            padding: 5px 5px ;
+            color: #000000;
+            display: flex;
+            justify-content:center;
+            align-items:center;
+            flex-direction: column;
+            max-width: 95%;
+            margin: auto;
+            border: 3px solid #000000;
+            border-radius: 5px;
+            box-shadow: 2px 2px 1px 0px #000000;
+
+        }
+
+           
+        .greet{
+            font-size: 3em;
+        }
+
+        .date {
+      
+            font-family: monospace;
+            font-size: 2em;
+        }
+
+        .clock {
+            font-family: monospace;
+            font-size: 2em;
+        }
+
+        .time {
+            display: inline-block;
+            min-width: 20px;
+        }
+
+        .colon {
+            font-size: 1em;
+            display: inline-block;
+        }
+
+     
+
+
+
+
+    </style>
+</head>
+<body>
+
+
+
+
+<div class="container>">
+    <div class="widget">
+
+            <div class="greet" id="greet"></div>
+
+                <div class="date" id="date"></div>
+                <div class="clock">
+                    <div class="time" id="hour"></div>
+                    <div class="colon">:</div>
+                    <div class="time" id="min"></div>
+                    <div class="colon">:</div>
+                    <div class="time" id="sec"></div>
+                </div>
+           
+
+        
+
+    </div>
+</div>
+        
+
+
+
+<script>
+
+function dispalyGreetings(today){
+        hrs = today.getHours();
+        name=""
+        if (hrs < 12)
+            greet = 'Good Morning  '+name;
+        else if (hrs >= 12 && hrs <= 17)
+            greet = 'Good Afternoon '+name;
+        else if (hrs >= 17 && hrs <= 24)
+            greet = 'Good Evening  '+name;
+        document.getElementById('greet').innerHTML = greet;
+
+    }
+
+    function dispalyDate(today) {  
+       
+        const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+        const monthNames = ["January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
+
+        var dayName = days[today.getDay()];
+        var monthName = monthNames[today.getMonth()];
+        var date = today.getDate();
+        var year = today.getFullYear();
+        document.getElementById('date').innerHTML =dayName+", "+monthName+" "+date+" "+year;
+
+    }
+
+
+    function dispalyClock(today) {
+
+        var hour = padZeros(twelveHour(today.getHours()));
+        var minutes = padZeros(today.getMinutes());
+        var seconds = padZeros(today.getSeconds());
+       
+        if(today.getHours() >=12){
+            seconds+=" pm"
+        }
+        else{
+            seconds+=" am"
+        }
+       
+        document.getElementById('hour').innerHTML = hour;
+        document.getElementById('min').innerHTML = minutes;
+        document.getElementById('sec').innerHTML = seconds;
+    }
+
+    function twelveHour(hour) {
+        if (hour > 12) {
+            return hour -= 12
+        } else if (hour === 0) {
+            return hour = 12;
+        } else {
+            return hour
+        }
+    }
+    function padZeros(num) {
+        if (num < 10) {
+            num = '0' + num
+        };
+        return num;
+    }
+
+    function dispalyWidget() {
+        var today = new Date();
+        dispalyGreetings(today);
+        dispalyDate(today);
+        dispalyClock(today);
+        setTimeout(dispalyWidget, 500);
+    }
+
+    dispalyWidget()
+
+</script>
+
+</body>
+</html>
 ### Hi there 
 - 🔭 This is  **Jinhui Li**.  
 - ✨ ~~I am an algorithm researcher in the R&D center of BGI group.~~- Now I am a Ph.D student in America. 
