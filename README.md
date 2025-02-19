@@ -2,7 +2,7 @@
 ### Favorite Words
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=700&size=13&multiline=true&width=435&lines=%E8%8E%AB%E5%90%AC%E7%A9%BF%E6%9E%97%E6%89%93%E5%8F%B6%E5%A3%B0%2C%E4%BD%95%E5%A6%A8%E5%90%9F%E5%95%B8%E4%B8%94%E5%BE%90%E8%A1%8C%E3%80%82;Ignore+the+noises+around+you%2C+keep+walking+confidently.)]([https://git.io/typing-svg](https://jinhuili-lab.github.io))
 
-<iframe src="https://jinhuili-lab.github.io/jinhuili-lab/time.html" width="100%" height="500px"></iframe>
+<iframe src="https://raw.githubusercontent.com/jinhuili-lab/jinhuili-lab/main/time.html" width="100%" height="500px"></iframe>
 
 ### Hi there 
 - 🔭 This is  **Jinhui Li**.  
